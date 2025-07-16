@@ -15,6 +15,7 @@ The PickStation comprises of the following planned components:
 * Next component indicator display with microcontroller and RS485 bus
 * Nozzle illumination
 * USB camera for closeup view (aliexpress pick and place robot camera, 1080p)
+
 Why RS485 to connect electronics? I am planning to have more intelligent tape holders, not full feeders but automatic detection of component type and indicate which component to pick next.
 ## Firmware
 * RP2040 with USB connection as a block device/MTP and a serial port for debugging
