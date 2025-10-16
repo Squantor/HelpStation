@@ -1,5 +1,5 @@
-# PickStation
-The PickStation is a tool that makes assembling electronics much easier.
+# HelpStation
+The HelpStation is a tool that makes assembling electronics much easier.
 ## Features
 * X/Y manually movable gantry for accurate positioning of a vacuum pickup tool
 * Close up camera and illumination
